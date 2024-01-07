@@ -7,3 +7,5 @@
     - Project: Evo (5%)
     - Project: JoD (Currently Abandoned)
     - Project: Therapy (1%)
+    - Project: Phantoms (1%)
+    - Project: Lightbringer (1%)
